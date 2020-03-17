@@ -1,0 +1,25 @@
+{
+    "hero": {
+        "greeting": "Welcome!",
+        "introduction": "My name is Jessica. I am a web developer. I am excited to work on your project.",
+        "img_profile": "https://lh3.googleusercontent.com/bblTEkTh0f5A3vtK0YfKI36gL3tboTCbaiLnEmxZt9kDW_VeghhOkYYWZ3BPXkt1hh3NtPuyouPKGxQ5jtJ-hJT41Gw=s220-c",
+        "img_background": "https://lh3.googleusercontent.com/HAt5b-7DoXinFb1ktwmL_78V9ms8-Oo2XLJdJh6k_SP2TTsjhaYjImoXblXDtr2KnACiyykmGCy_t1CWQ0CmirVPlYU"
+    },
+
+    "projects": {
+        "header": "My Projects",
+        "subheader": "Take a look at my most recent work!"
+    },
+
+    
+    "image_profile": "/public/images/profile_image.jpg",
+    "greeting": "Hello! My name is Jessica!",
+    "introduction": "I am a web developer from Wisconsin",
+    "languages": [
+        { "name": "java", "years": 2 },
+        { "name": "javascript", "years": 1 },
+        { "name": "html5", "years": 2 },
+        { "name": "css", "years": 2 },
+        { "name": "C#", "years": 2 }
+    ]
+}
